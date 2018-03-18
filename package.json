@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-szh",
+  "version": "0.0.3",
+  "description": "eslint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surovv/eslint-config-szh.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "s zh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surovv/eslint-config-szh/issues"
+  },
+  "homepage": "https://github.com/surovv/eslint-config-szh#readme",
+  "dependencies": {
+    "babel-eslint": "^8.2.2",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-fp": "^2.3.0",
+    "eslint-plugin-import": "^2.9.0"
+  },
+  "peerDependencies": {
+    "eslint": "^4.0.0"
+  }
+}
