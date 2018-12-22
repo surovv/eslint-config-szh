@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-szh",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "eslint configuration",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/surovv/eslint-config-szh#readme",
   "dependencies": {
-    "babel-eslint": "^8.2.2",
-    "eslint-config-airbnb-base": "^12.1.0",
+    "babel-eslint": "^10.0.1",
+    "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-fp": "^2.3.0",
     "eslint-plugin-import": "^2.9.0"
   },
